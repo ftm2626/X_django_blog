@@ -19,3 +19,7 @@ python manage.py createsuperuser
 
 step4:create templates
 step5:create static files
+
+
+0:30:42 - https://www.youtube.com/watch?v=1-1ePcEDcqI
+
