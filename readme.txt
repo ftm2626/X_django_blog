@@ -20,6 +20,20 @@ python manage.py createsuperuser
 step4:create templates
 step5:create static files
 
+step6:create blogs and categories 
+python manage.py startapp blogs
+go to setting.py and add to installed_apps
+add to model.py
+python manage.py makemigrations
+python manage.py migrate
+register the model in admin.py
 
-0:30:42 - https://www.youtube.com/watch?v=1-1ePcEDcqI
+
+step7: handle media
+add media_url in setting.py
+add to url.py
+create media files at root
+
+
+0:55:10 - https://www.youtube.com/watch?v=1-1ePcEDcqI
 
