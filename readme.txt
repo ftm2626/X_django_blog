@@ -10,6 +10,7 @@ ubuntu:
 
 step2: install django and packages
 pip install django
+pip install pillow
 
 step3: start with django
 django-admin startproject blog_main .
@@ -35,5 +36,5 @@ add to url.py
 create media files at root
 
 
-0:55:10 - https://www.youtube.com/watch?v=1-1ePcEDcqI
+1:36:30 - https://www.youtube.com/watch?v=1-1ePcEDcqI
 
